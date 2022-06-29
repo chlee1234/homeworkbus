@@ -45,6 +45,7 @@ class Bus {
             System.out.println("만석으로 버스 탑승이 불가능합니다.");
         }
 
+
     }
     public void changeSpeed(){ // 속도 변경
         if(oil<10){
